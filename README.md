@@ -7,3 +7,5 @@ Makeover Monday (02/03)
 
 [Visualizacion.pdf](https://github.com/Araigoso/infovis/files/4307608/Visualizacion.pdf)
 
+Makeover Monday (09/03)
+
