@@ -20,4 +20,4 @@ https://public.tableau.com/profile/araigoso#!/vizhome/week11_15849420406650/Dash
 Makeover Monday (30/03)
 W13: Does pineapple belong on a pizza?
 
-https://app.powerbi.com/groups/6427e4ea-2506-4f02-97fb-f4ac69372f3c/reports/360d35be-1cb9-4d13-b0a3-0f357ac540ae?ctid=a1f50a97-21c0-49a7-a9d4-f244ebb42da7
+https://app.powerbi.com/reportEmbed?reportId=360d35be-1cb9-4d13-b0a3-0f357ac540ae&autoAuth=true&ctid=a1f50a97-21c0-49a7-a9d4-f244ebb42da7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
